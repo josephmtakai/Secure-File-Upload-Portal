@@ -51,8 +51,16 @@ Select a file by clicking the "Choose File" button.
 The file will be validated on the client side for type and size.
 Once validated, the file will be encrypted before being uploaded.
 A progress bar will indicate the upload status.
+
+Screenshots:
+![Invalid File Type](https://github.com/user-attachments/assets/a4f14624-cb68-47ff-8b60-3cd525e508e8)
+
+![Successful Upload](https://github.com/user-attachments/assets/13840f46-e48b-4937-b21d-2b7d356ecea1)
+
+
 Upload History:
 After the upload, the file name, size, and upload timestamp will be stored and displayed in the "Upload History" section.
+
 Encryption Details
 Files are encrypted using AES (Advanced Encryption Standard) through the CryptoJS library before they are uploaded to the server. This ensures that files are secure in transit and cannot be easily intercepted.
 
