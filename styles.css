@@ -1,0 +1,6 @@
+/* styles.css */
+#progressContainer {
+    height: 10px;
+    width: 100%;
+    background-color: #e2e8f0; /* Light gray */
+}

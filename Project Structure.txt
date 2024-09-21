@@ -1,0 +1,6 @@
+secure-file-upload-portal/
+│
+├── index.html
+├── styles.css
+├── script.js
+└── uploads/
